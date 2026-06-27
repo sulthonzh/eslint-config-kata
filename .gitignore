@@ -107,3 +107,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+# Code Quality Supervisor additions
+dist/
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
